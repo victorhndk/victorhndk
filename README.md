@@ -8,7 +8,7 @@
 <br>
 </div></td>
   <tr>
-  <td align="center">my favs languages of programming at the moment is:<br><br>
+  <td align="center">my favs programming languages at the moment:<br><br>
     <a href="https://www.w3schools.com/html/html_tables.asp" target="_blank"><img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-jaune.png" width= 50 heigh= 50/></a>
      <a href="https://www.w3schools.com/css/css_examples.asp" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-wordmark-programming-langugae-language-pack-logos-icons-1175238.png" width= 48 heigh= 48/></a>
      <a href="https://www.w3schools.com/js/js_examples.asp" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width= 50 heigh= 50/></a>
